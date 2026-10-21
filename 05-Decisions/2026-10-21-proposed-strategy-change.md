@@ -1,6 +1,10 @@
-# 2026-10-21: Proposed strategy change (stocks and options)
+# 2026-10-21: Proposed strategy change (stocks and options) [ADOPTED AS SEPARATE PAPER TEST]
 
-> **STATUS: PROPOSED. NOT ADOPTED.** Nothing here changes how the desk trades. The desk stays in PAPER mode on crypto perpetual futures under the current [[Hard Rules]] and [[Risk Limits]] until Evan adopts a change in his own words. No routines or bot profiles were changed.
+> **STATUS: ADOPTED AS A SEPARATE PAPER TEST on 2026-10-21.** $100,000 paper account running **alongside** the crypto desk; the **crypto perps desk is unchanged** (same $10k paper balance, [[Hard Rules]], [[Risk Limits]]). Evan's words (widget answers, Oct 21): "Start the options paper account at $100,000" and "Yes, set up the options paper test as described". PAPER ONLY, no broker. Details: [[Options Test Overview]] · [[Options Test Results]].
+>
+> Open questions answered: (1) no broker, simulated by the desk from Yahoo data; (2) paper only; (3) alongside, separate $100k, crypto $10k untouched; (4) options limits = 20%/ticker, 5 positions, earnings rule, fully cash-secured; (5) only the stock signal can be backtested; options prove themselves forward; (6) tickets `TF-OPT-YYYYMMDD-NN`; (7) Yahoo Finance; (8) no broker read access, the ledger is the "brokerage"; (9) weekend screen, rules in the overview; (10) no new positions across earnings or within 7 days.
+>
+> *(Original status line, kept for history: PROPOSED. NOT ADOPTED.)*
 
 ## Evan's message (verbatim)
 Posted by Evan in the Trading Floor group chat, Oct 21, 2026, about 1:16 PM PT. The first few words were cut off in the transcript, so it starts mid-sentence. Most of it is a **post Evan quoted from someone else's agent setup** ("I'm not trading on crypto…", "my win % is 100%"). The 5% in 3 weeks, the 100% options win rate and the two open assignments are **that person's results, not Evan's or the desk's.**

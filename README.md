@@ -9,7 +9,8 @@ This vault is **only** for the Trading Floor. Torrey Sites (Website Rescue) has 
 - `02-Risk/`: [[Risk Limits]]
 - `03-Journal/`: [[Trade Log]]: every ticket and every closed position (never delete losers)
 - `04-Research/`: [[Research Index]]: data sources, watchlists, verified flags
-- `05-Decisions/`: dated decisions from Evan, e.g. [[2026-10-21 Decisions]] and [[2026-10-21-proposed-strategy-change]] (PROPOSED)
+- `05-Decisions/`: dated decisions from Evan, e.g. [[2026-10-21 Decisions]] and [[2026-10-21-proposed-strategy-change]] (ADOPTED as a separate paper test)
+- `06-Options-Test/`: the separate $100k options PAPER test: [[Options Test Overview]], [[Options Test Results]] (tooling in `/workspace/optdesk`)
 - `99-Templates/`: [[Ticket Template]], [[Strategy Template]], [[Post-mortem Template]], [[Decision Template]]
 - [[CHANGELOG]]
 

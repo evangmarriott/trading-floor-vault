@@ -1,3 +1,4 @@
 # CHANGELOG
 
 - 2026-10-21: Vault created by Sage from `/workspace/trading-floor/` (README.md, full-mode-backup.json, low-usage-mode.json, low-usage-block.txt) and the bots' profile texts. Added [[2026-10-21-proposed-strategy-change]] as PROPOSED (Evan's verbatim message still needs to be pasted in; see the note). Initial git commit made locally (no remote).
+- 2026-10-21: Evan adopted the stocks/options idea as a SEPARATE $100k PAPER test alongside the crypto desk (crypto unchanged). Added `06-Options-Test/` ([[Options Test Overview]], [[Options Test Results]]); marked [[2026-10-21-proposed-strategy-change]] ADOPTED AS A SEPARATE PAPER TEST; updated [[Strategy Index]] and README. Tooling built in `/workspace/optdesk` (screen, signals, candidates, ledger, signal backtest); ledger initialized at $100,000, SPY benchmark 773.09, no trades.
